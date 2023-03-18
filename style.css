@@ -1,0 +1,17 @@
+.resim{
+    width: 300px;
+    height: 200px;
+}
+
+h3{
+    color: brown;
+}
+
+h1{
+    color: rgb(94, 94, 47);
+}
+
+h1, h2, h3, p, li{
+    text-align: center;
+}
+
